@@ -17,11 +17,18 @@ programming language: python github
 
 Steps to Install and run the project
 
-1.Install Python 2.Save the project file named : studenet_performance_predictor.py 3.open terminal/command prompt in the folder where the file is saved. 4.Run the program.
+1.Install Python
+
+2.Save the project file named : studenet_performance_predictor.py 
+
+3.open terminal/command prompt in the folder where the file is saved. 4.Run the program.
 
 Instructions for Testing
 
 Run the program:
+
 Enter different values when asked,for example: study_hours = 1,attendance=60 (likely FAIL) study_hours = 4,attendance=90 (likely PASS)
+
 Try multiple combinations of inputs to see how the prediction changes.
+
 student_performance_predictor png1 student_performance_predictor png
