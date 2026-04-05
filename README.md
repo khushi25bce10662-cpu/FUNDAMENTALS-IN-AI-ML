@@ -1,10 +1,26 @@
 # FUNDAMENTALS-IN-AI-ML
-STUDENT-PERFORMANCE-PREDICTOR.
+Student Performance Predictor
+Overview of the Project
 
-Problem Statement Students often do not know if their current study effort is enough to pass an exam. This project aims to create a simple rule-based program that predicts whether a student will **pass ** or fail based on study hours and attendance.
+The Student Performance Predictor is a simple python project for the AI and ML subject. It uses rule-based logic(if-else statements) to predict whether a student is likely to pass or fail an exam.
 
-Scope of the Project The project is limited to two input factors. study hours per day and attendance(%). Uses **if-else conditions ** to decide the prediction. Runs as a simple command-line python program.
+The prediction is based on : Study hours per day Attendance percentage
 
-Target Users students - to get a rough idea of their expected performance. **Teachers/faculty ** - to demonstrate basic AI and ML concepts. Beginners in AI and ML - as a small,easy example of classification.
+Features
 
-High-Level-Features Takes user input: study hours and attendance. Predicts Pass or Fail using if-else conditions. Simple python implementation with minimal code.
+Takes user input for : study hours per day attendance percentage Applies simple rules to estimate performance. Displays a clear message: 'pass' or 'fail' Very simple code using only basic python (no external libraries).
+
+Technologies used
+
+programming language: python github
+
+Steps to Install and run the project
+
+1.Install Python 2.Save the project file named : studenet_performance_predictor.py 3.open terminal/command prompt in the folder where the file is saved. 4.Run the program.
+
+Instructions for Testing
+
+Run the program:
+Enter different values when asked,for example: study_hours = 1,attendance=60 (likely FAIL) study_hours = 4,attendance=90 (likely PASS)
+Try multiple combinations of inputs to see how the prediction changes.
+student_performance_predictor png1 student_performance_predictor png
