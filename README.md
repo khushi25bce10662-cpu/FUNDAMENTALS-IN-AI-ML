@@ -1,5 +1,6 @@
 # FUNDAMENTALS-IN-AI-ML
 Student Performance Predictor
+
 Overview of the Project
 
 The Student Performance Predictor is a simple python project for the AI and ML subject. It uses rule-based logic(if-else statements) to predict whether a student is likely to pass or fail an exam.
